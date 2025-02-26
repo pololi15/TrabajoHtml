@@ -24,7 +24,7 @@ body {
     background-color: rgba(144,94,65, 1);
     color: white;
 }
-#aside-rigth{
+#aside-right{
     grid-column: 3 / 4;
     padding: 15px;
     background-color: rgba(144,94,65, 1);
